@@ -1,0 +1,4 @@
+Force GitHub Pages rebuild
+
+This file was added automatically by GitHub Copilot to trigger a Pages rebuild.
+Timestamp: 2026-08-23T00:00:00Z
